@@ -1,6 +1,6 @@
 # 👨‍💻 Antonio Mota Junior
 
-<img align="right" width="210" src="./assets/github_fullstack_ia_animado_lento.gif" alt="Antonio Mota Junior - Desenvolvedor Full Stack" />
+<img align="right" width="210" src="./github_fullstack_ia_animado_lento.gif" alt="Antonio Mota Junior - Desenvolvedor Full Stack" />
 
 ### Desenvolvedor Full Stack · PHP · Python · JavaScript
 
@@ -31,7 +31,6 @@ Tenho interesse em transformar processos reais em aplicações práticas, com fo
 
 ![PHP](https://img.shields.io/badge/PHP-8%2B-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![PDO](https://img.shields.io/badge/PDO-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -41,6 +40,10 @@ Tenho interesse em transformar processos reais em aplicações práticas, com fo
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🖥️ Ferramentas Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![AJAX](https://img.shields.io/badge/AJAX-1572B6?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -101,8 +104,8 @@ Automação aplicada a análise e execução de estratégias, utilizando conceit
 > Os cards abaixo podem ser substituídos por SVGs gerados pelo GitHub Actions, evitando dependência de serviços públicos externos.
 
 <p align="center">
-  <img height="155" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img height="155" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+  <img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
