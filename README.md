@@ -1,291 +1,141 @@
-<div align="center">
+# 👨‍💻 Antonio Mota Junior
 
-# 👋 Antonio Mota Junior
+<img align="right" width="210" src="./assets/github_fullstack_ia_animado_lento.gif" alt="Antonio Mota Junior - Desenvolvedor Full Stack" />
 
-### 💻 Desenvolvedor Full Stack · PHP · Python · JavaScript · APIs REST · IA
+### Desenvolvedor Full Stack · PHP · Python · JavaScript
 
-<p>
-  <a href="https://github.com/antoniomotajr">
-    <img src="https://img.shields.io/github/followers/antoniomotajr?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=161b22" alt="Seguidores">
-  </a>
-  <a href="https://github.com/antoniomotajr?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
-  </a>
-  <a href="https://www.linkedin.com/in/afmotajunior/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+**APIs REST · Web · RPA · Visão Computacional · IA**
 
-</div>
+📍 Brasília-DF, Brasil
 
-<table>
-<tr>
-<td width="68%" valign="top">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Mota%20Junior-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afmotajunior/)
+[![E-mail](https://img.shields.io/badge/E--mail-antoniomotajr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:antoniomotajr@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-JM%20Studio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://jmstudio.orgfree.com/sobre.php)
+[![ArtStation](https://img.shields.io/badge/ArtStation-Antonio%20Mota-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/afmotajunior)
+
+<br clear="right" />
+
+---
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Full Stack**, com experiência na criação de sistemas web, automação de processos, integração de APIs, análise de dados, RPA, visão computacional e aplicações com IA.
+Desenvolvedor Full Stack com foco na criação de **sistemas web, APIs, automações e soluções orientadas a dados**, combinando desenvolvimento de software, RPA, visão computacional e Inteligência Artificial.
 
-Meu foco é transformar necessidades reais em **soluções digitais completas**, conectando:
-
-**Frontend → Backend → Banco de Dados → APIs → Automação → Inteligência**
-
-> 💡 **“Transformando processos reais em soluções digitais.”**
-
-### 🎯 Especialidades
-
-| Área | Atuação |
-|---|---|
-| 🌐 **Frontend** | Interfaces responsivas, dashboards, tabelas dinâmicas e UX |
-| ⚙️ **Backend** | PHP, Python, Flask, SQLAlchemy, PDO e APIs REST |
-| 🗄️ **Dados** | MySQL, Pandas, análise e processamento de dados |
-| 🤖 **Automação** | RPA, automação de rotinas e geração de relatórios |
-| 👁️ **Visão Computacional** | Processamento e análise de imagens |
-| 🧠 **IA** | Google GenAI SDK e aplicações inteligentes |
-| 📈 **Trading/Automação** | MetaTrader 5 e automação baseada em regras |
-
-</td>
-<td width="32%" align="center" valign="top">
-
-<img src="./assets/github_fullstack_ia_animado_lento.gif" width="230" alt="Antonio Mota Junior - Full Stack Developer">
-
-<br><br>
-
-### 📍 Brasília-DF 🇧🇷
-
-**Full Stack Developer**
-
-PHP • Python • JavaScript  
-REST APIs • RPA • IA  
-Web • Dados • Automação
-
-</td>
-</tr>
-</table>
+Tenho interesse em transformar processos reais em aplicações práticas, com foco em **automação, produtividade, análise de dados e integração entre sistemas**.
 
 ---
 
-## 🧩 Stack Tecnológica
+## 🛠️ Stack & Tecnologias
 
-### 🎨 Frontend
+### Linguagens & Backend
 
-<table>
-<tr>
-<td align="center" width="14%">🌐<br><b>HTML5</b></td>
-<td align="center" width="14%">🎨<br><b>CSS3</b></td>
-<td align="center" width="14%">⚡<br><b>JavaScript</b></td>
-<td align="center" width="14%">🔄<br><b>AJAX</b></td>
-<td align="center" width="14%">🅱️<br><b>Bootstrap 5</b></td>
-<td align="center" width="14%">💨<br><b>Tailwind</b></td>
-<td align="center" width="14%">📊<br><b>Chart.js</b></td>
-</tr>
-</table>
+![PHP](https://img.shields.io/badge/PHP-8%2B-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PDO](https://img.shields.io/badge/PDO-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="25%">📋 <b>DataTables</b></td>
-<td align="center" width="25%">📱 <b>Responsive UI</b></td>
-<td align="center" width="25%">📈 <b>Dashboards</b></td>
-<td align="center" width="25%">🔗 <b>REST Integration</b></td>
-</tr>
-</table>
+### Web & APIs
 
-### ⚙️ Backend & Banco de Dados
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-1572B6?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![DataTables](https://img.shields.io/badge/DataTables-DataTables-blue?style=flat-square)
 
-<table>
-<tr>
-<td align="center">🐘<br><b>PHP 8+</b></td>
-<td align="center">🐍<br><b>Python 3.x</b></td>
-<td align="center">🌶️<br><b>Flask</b></td>
-<td align="center">🧱<br><b>SQLAlchemy</b></td>
-<td align="center">🔌<br><b>PDO</b></td>
-<td align="center">🗄️<br><b>MySQL 8+</b></td>
-<td align="center">🛠️<br><b>phpMyAdmin</b></td>
-</tr>
-</table>
+### Dados, Automação & IA
 
-### 🤖 Automação, IA & Dados
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google%20GenAI-SDK-4285F4?style=flat-square&logo=google&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-Automação-6C63FF?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-IA-00A98F?style=flat-square)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-1E88E5?style=flat-square)
 
-<table>
-<tr>
-<td align="center">🤖<br><b>RPA</b></td>
-<td align="center">👁️<br><b>Computer Vision</b></td>
-<td align="center">✨<br><b>Google GenAI</b></td>
-<td align="center">🐼<br><b>Pandas</b></td>
-<td align="center">📈<br><b>MetaTrader 5</b></td>
-<td align="center">📦<br><b>PyInstaller</b></td>
-</tr>
-</table>
+### Banco de Dados & Ferramentas
 
-### 🛠️ Ferramentas
-
-<table>
-<tr>
-<td align="center">🔀 <b>Git</b></td>
-<td align="center">🐙 <b>GitHub</b></td>
-<td align="center">💻 <b>VS Code</b></td>
-<td align="center">🐧 <b>Linux</b></td>
-<td align="center">🪟 <b>Windows</b></td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL%208-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📌 Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔹 Pipeline RPA Dinâmico & Analítico de Dados
+Automação de processos e tratamento de dados, com geração de informações estruturadas para análise e tomada de decisão.
 
-### 🤖 Pipeline RPA Dinâmico & Analítico
+### 🔹 Sistema de Gestão Financeira e Manutenção Patrimonial
+Aplicação web para controle financeiro, patrimônio, manutenção e acompanhamento operacional.
 
-Automação de rotinas, processamento de dados e geração de informações para apoio à tomada de decisão.
+### 🔹 Sistema de Gestão de Ordens de Serviço
+Sistema voltado ao gerenciamento do fluxo de ordens de serviço, acompanhamento de atividades e organização operacional.
 
-**Tecnologias:** Python · RPA · Pandas · Automação
+### 🔹 Sistema de Gestão de Turnos e Plantões Familiares
+Solução para organização de escalas, turnos e plantões, com foco em praticidade e controle das atividades.
 
-</td>
-<td width="50%" valign="top">
-
-### 💰 Gestão Financeira e Patrimonial
-
-Sistema web para organização financeira, controle patrimonial, manutenção e acompanhamento de informações.
-
-**Tecnologias:** PHP · MySQL · JavaScript · Bootstrap
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ Gestão de Ordens de Serviço
-
-Controle de solicitações, ordens de serviço, status e organização operacional.
-
-**Tecnologias:** PHP · MySQL · AJAX · DataTables
-
-</td>
-<td width="50%" valign="top">
-
-### 📅 Gestão de Turnos e Plantões
-
-Sistema para organização de escalas, turnos, plantões e distribuição de responsabilidades.
-
-**Tecnologias:** PHP · MySQL · JavaScript · Bootstrap
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### 📈 Robô de Automação Baseado em SMC
-
-Automação orientada a regras e análise de mercado, com integração ao **MetaTrader 5**.
-
-**Tecnologias:** Python · MetaTrader 5 · Automação · Análise de dados
-
-</td>
-</tr>
-</table>
+### 🔹 Robô de Automação Baseado em SMC
+Automação aplicada a análise e execução de estratégias, utilizando conceitos de Smart Money Concepts (SMC) e integração com MetaTrader 5.
 
 ---
 
-## 📊 GitHub
+## 📂 Outros projetos
 
-<table>
-<tr>
-<td align="center" width="50%">
+- [JARVIS](https://github.com/antoniomotajr/JARVIS)
+- [calorias](https://github.com/antoniomotajr/calorias)
+- [atlas_stack](https://github.com/antoniomotajr/atlas_stack)
+- [Simulador Hídrico e Ambiental — Cultivo de Soja](https://github.com/antoniomotajr/Simulador-H-drico-e-Ambiental---Cultivo-de-Soja)
+- [achei](https://github.com/antoniomotajr/achei)
+- [mania-manicure](https://github.com/antoniomotajr/mania-manicure)
+- [desafio_dev](https://github.com/antoniomotajr/desafio_dev)
 
-### 📈 Estatísticas
+---
 
-<img src="./profile/stats.svg" alt="Estatísticas do GitHub">
+## 📊 Indicadores no GitHub
 
-</td>
-<td align="center" width="50%">
-
-### 💻 Linguagens
-
-<img src="./profile/top-langs.svg" alt="Linguagens mais utilizadas">
-
-</td>
-</tr>
-</table>
+> Os cards abaixo podem ser substituídos por SVGs gerados pelo GitHub Actions, evitando dependência de serviços públicos externos.
 
 <p align="center">
-  <sub>⚙️ Cards gerados e atualizados pelo GitHub Actions dentro deste próprio repositório.</sub>
+  <img height="155" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="155" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
 
-## 📚 Outros Projetos
+## 🎯 Áreas de atuação
 
-<table>
-<tr>
-<td>🤖 <b>JARVIS</b></td>
-<td>🍎 <b>calorias</b></td>
-<td>🧱 <b>atlas_stack</b></td>
-</tr>
-<tr>
-<td>🌱 <b>Simulador Hídrico e Ambiental</b></td>
-<td>🔎 <b>achei</b></td>
-<td>💅 <b>mania-manicure</b></td>
-</tr>
-<tr>
-<td>🧪 <b>desafio_dev</b></td>
-<td>📦 <b>Projetos Web</b></td>
-<td>⚙️ <b>Automação</b></td>
-</tr>
-</table>
-
----
-
-## 💼 Atuação Profissional
-
-<table>
-<tr>
-<td width="30%">📌 <b>2026 – atual</b></td>
-<td><b>Desenvolvedor Full Stack & Suporte Técnico</b><br>Projetos autônomos</td>
-</tr>
-<tr>
-<td width="30%">📌 <b>1999 – 2015</b></td>
-<td><b>Assistente Administrativo, Logística e Atendimento ao Público</b><br>Universidade de Brasília — UnB</td>
-</tr>
-</table>
+- Desenvolvimento Full Stack
+- Desenvolvimento de APIs REST
+- Sistemas Web
+- Automação de processos e RPA
+- Integração entre sistemas
+- Análise e tratamento de dados
+- Visão Computacional
+- Inteligência Artificial
+- Automação aplicada a operações
+- Desenvolvimento de ferramentas internas
 
 ---
 
 ## 📫 Contato
 
-<table>
-<tr>
-<td>🌐 <b>Portfólio</b></td>
-<td><a href="https://jmstudio.orgfree.com/sobre.php">jmstudio.orgfree.com</a></td>
-</tr>
-<tr>
-<td>💼 <b>LinkedIn</b></td>
-<td><a href="https://www.linkedin.com/in/afmotajunior/">linkedin.com/in/afmotajunior</a></td>
-</tr>
-<tr>
-<td>🎨 <b>ArtStation</b></td>
-<td><a href="https://www.artstation.com/afmotajunior">artstation.com/afmotajunior</a></td>
-</tr>
-<tr>
-<td>✉️ <b>E-mail</b></td>
-<td><a href="mailto:antoniomotajr@gmail.com">antoniomotajr@gmail.com</a></td>
-</tr>
-</table>
+💼 **LinkedIn:** [linkedin.com/in/afmotajunior](https://www.linkedin.com/in/afmotajunior/)
+
+🌐 **Portfólio:** [jmstudio.orgfree.com/sobre.php](https://jmstudio.orgfree.com/sobre.php)
+
+🎨 **ArtStation:** [artstation.com/afmotajunior](https://www.artstation.com/afmotajunior)
+
+📧 **E-mail:** [antoniomotajr@gmail.com](mailto:antoniomotajr@gmail.com)
 
 ---
 
-<div align="center">
+> **“Transformando processos reais em soluções digitais.”**
 
-### ⚡ Desenvolvedor Full Stack
-
-**PHP · Python · JavaScript · REST APIs · Web · RPA · Visão Computacional · IA**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=antoniomotajr&style=flat-square&color=blue" alt="Visualizações do perfil">
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=antoniomotajr&style=flat-square&color=blue" alt="Visualizações do perfil" />
+</p>
