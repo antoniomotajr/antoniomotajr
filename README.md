@@ -101,7 +101,7 @@ Automação aplicada a análise e execução de estratégias, utilizando conceit
 
 ## 📊 Indicadores no GitHub
 
-> Os cards abaixo podem ser substituídos por SVGs gerados pelo GitHub Actions, evitando dependência de serviços públicos externos.
+> 
 
 <p align="center">
   <img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
