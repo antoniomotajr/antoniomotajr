@@ -1,8 +1,8 @@
 <h1 align="center">Antonio Mota Junior</h1>
 
 <p align="center">
-  Assistência Administrativa · Suporte Técnico · Logística · Atendimento ao Público<br/>
-  Desenvolvimento Web e Automação com Python
+  <strong>Desenvolvedor Full Stack</strong> | PHP, Python, JS<br/>
+  APIs REST · Web · Visão Computacional & IA
 </p>
 
 <p align="center">
@@ -20,49 +20,79 @@
 
 ## Resumo profissional
 
-Profissional com sólida trajetória multidisciplinar em **Assistência Administrativa**, **Suporte Técnico**, **Logística** e **Atendimento ao Público**, com forte base operacional.
+Desenvolvedor Full Stack autônomo, com atuação em **PHP**, **Python** e **JavaScript**, voltado à construção de sistemas web, **APIs REST**, automações (RPA) e soluções com **Inteligência Artificial** e **Visão Computacional**.
 
-Atualmente, combino essa experiência prática com o desenvolvimento de soluções em **HTML, CSS, JavaScript e Python**, priorizando ferramentas objetivas, funcionais e voltadas a problemas reais do dia a dia.
-
----
-
-## Áreas de atuação
-
-| Área | Foco |
-| :-- | :-- |
-| **Administrativa** | Rotinas administrativas, organização de processos e documentação |
-| **Suporte técnico** | Atendimento e resolução de demandas técnicas |
-| **Logística** | Controle operacional e fluxo de materiais |
-| **Atendimento ao público** | Comunicação clara, empatia e foco na solução |
-| **Desenvolvimento** | Interfaces web e automações em Python |
+Minha trajetória multidisciplinar em **Assistência Administrativa**, **Suporte Técnico**, **Logística** e **Atendimento ao Público** me dá uma base operacional sólida: desenvolvo sistemas pensando em processos reais, na rotina de quem usa e em resultados mensuráveis.
 
 ---
 
 ## Stack técnica
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+**Back-end**
+
+<img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8+" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/PDO-4F5B93?style=flat-square&logo=php&logoColor=white" alt="PDO" />
+<img src="https://img.shields.io/badge/APIs%20REST-009688?style=flat-square" alt="APIs REST" />
+
+**Front-end**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square" alt="AJAX" />
+<img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+<img src="https://img.shields.io/badge/DataTables-1F6FB2?style=flat-square" alt="DataTables" />
+
+**Dados, IA e automação**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google GenAI SDK" />
+<img src="https://img.shields.io/badge/RPA-1F2937?style=flat-square" alt="RPA" />
+<img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-5C3EE8?style=flat-square" alt="Visão Computacional" />
+<img src="https://img.shields.io/badge/MetaTrader%205-1F2937?style=flat-square" alt="MetaTrader 5" />
+
+**Banco de dados e ferramentas**
+
+<img src="https://img.shields.io/badge/MySQL%208+-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8+" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyInstaller" />
 
 ---
 
-## Projetos selecionados
+## Projetos de destaque
 
-| Projeto | Stack | Descrição |
-| :-- | :-- | :-- |
-| [JARVIS](https://github.com/antoniomotajr/JARVIS) | Python | Assistente e automação de tarefas |
-| [calorias](https://github.com/antoniomotajr/calorias) | Python | Ferramenta de cálculo calórico |
-| [Simulador Hídrico e Ambiental – Cultivo de Soja](https://github.com/antoniomotajr/Simulador-H-drico-e-Ambiental---Cultivo-de-Soja) | HTML | Simulador aplicado ao cultivo de soja |
-| [atlas_stack](https://github.com/antoniomotajr/atlas_stack) | HTML | Aplicação web |
-| [bets_simula](https://github.com/antoniomotajr/bets_simula) | CSS | Páginas HTML para LinkedIn |
-| [corrida_banheiro](https://github.com/antoniomotajr/corrida_banheiro) | HTML | Aplicação web interativa |
+### Pipeline RPA Dinâmico & Analítico de Dados
+Pipeline de automação e análise de dados com integração a IA.
+**Stack:** Python · Flask · SQLAlchemy · Pandas · Google GenAI SDK · Tailwind CSS · HTML5 · PyInstaller
 
-**Em desenvolvimento recente:** [achei](https://github.com/antoniomotajr/achei) (JavaScript) · [mania-manicure](https://github.com/antoniomotajr/mania-manicure) (HTML) · [desafio_dev](https://github.com/antoniomotajr/desafio_dev) (Python)
+### Sistema de Gestão Financeira e Manutenção Patrimonial
+Sistema web para controle financeiro e manutenção de patrimônio, com painéis e tabelas interativas.
+**Stack:** PHP 8+ · MySQL 8+ · PDO · Bootstrap 5 · Chart.js · DataTables · AJAX · JavaScript · HTML5
+
+### Sistema de Gestão de Ordens de Serviço
+Sistema web para abertura, acompanhamento e gestão de ordens de serviço.
+**Stack:** PHP · MySQL · phpMyAdmin · JavaScript · AJAX
+
+### Sistema de Gestão de Turnos e Plantões Familiares
+Aplicação web para organização de turnos e plantões.
+**Stack:** PHP · MySQL · JavaScript · HTML5 · CSS
+
+### Robô de Automação Baseado em SMC
+Robô de automação integrado ao MetaTrader 5, com processamento de dados em Python.
+**Stack:** Python · Flask · Pandas · MySQL · PHP · phpMyAdmin · MetaTrader 5
+
+---
+
+## Outros repositórios
+
+[JARVIS](https://github.com/antoniomotajr/JARVIS) · [calorias](https://github.com/antoniomotajr/calorias) · [atlas_stack](https://github.com/antoniomotajr/atlas_stack) · [Simulador Hídrico e Ambiental – Cultivo de Soja](https://github.com/antoniomotajr/Simulador-H-drico-e-Ambiental---Cultivo-de-Soja) · [achei](https://github.com/antoniomotajr/achei) · [mania-manicure](https://github.com/antoniomotajr/mania-manicure) · [desafio_dev](https://github.com/antoniomotajr/desafio_dev)
 
 ---
 
@@ -77,7 +107,7 @@ Atualmente, combino essa experiência prática com o desenvolvimento de soluçõ
 
 ## Contato
 
-Disponível para oportunidades profissionais, parcerias e projetos.
+Disponível para projetos, parcerias e oportunidades profissionais.
 
 - **E-mail:** [antoniomotajr@gmail.com](mailto:antoniomotajr@gmail.com)
 - **LinkedIn:** [linkedin.com/in/afmotajunior](https://www.linkedin.com/in/afmotajunior/)
