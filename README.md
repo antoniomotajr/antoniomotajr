@@ -1,230 +1,172 @@
-<table>
-  <tr>
-    <td valign="middle" width="70%">
-      <h1>Antonio Mota Junior</h1>
+<img align="right" width="210" src="./assets/github_fullstack_ia_animado_lento.gif" alt="Antonio Mota Junior - Desenvolvedor Full Stack" />
 
-      <strong>Desenvolvedor Full Stack</strong> · PHP · Python · JavaScript<br/>
-      <strong>APIs REST</strong> · Web · RPA · Visão Computacional · IA
+# Antonio Mota Junior
 
-      <br/><br/>
+**Desenvolvedor Full Stack** · PHP · Python · JavaScript  
+**APIs REST** · Web · RPA · Visão Computacional · IA
 
-      📍 Brasília-DF, Brasil
+📍 Brasília-DF, Brasil
 
-      <br/><br/>
+<a href="https://www.linkedin.com/in/afmotajunior/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:antoniomotajr@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+<a href="https://jmstudio.orgfree.com/sobre.php">
+  <img src="https://img.shields.io/badge/Portfólio-JM%20Studio-1F2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio" />
+</a>
+<a href="https://www.artstation.com/afmotajunior">
+  <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation" />
+</a>
 
-      <a href="https://www.linkedin.com/in/afmotajunior/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="mailto:antoniomotajr@gmail.com">
-        <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
-      </a>
-      <a href="https://jmstudio.orgfree.com/sobre.php">
-        <img src="https://img.shields.io/badge/Portfólio-JM%20Studio-1F2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio"/>
-      </a>
-      <a href="https://www.artstation.com/afmotajunior">
-        <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"/>
-      </a>
-    </td>
-
-    <td align="right" valign="middle" width="30%">
-      <img
-        src="./assets/github_fullstack_ia_animado_lento.gif"
-        width="210"
-        alt="Antonio Mota Junior — Full Stack Developer"
-      />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack autônomo**, com atuação principalmente em **PHP, Python e JavaScript**, desenvolvendo sistemas web, APIs REST, automações e soluções envolvendo **Inteligência Artificial e Visão Computacional**.
+Sou **Desenvolvedor Full Stack autônomo**, com atuação principalmente em **PHP, Python e JavaScript**, voltado à construção de sistemas web, **APIs REST**, automações (RPA) e soluções com **Inteligência Artificial** e **Visão Computacional**.
 
-Minha experiência multidisciplinar em **Assistência Administrativa, Suporte Técnico, Logística e Atendimento ao Público** contribui para uma visão prática de desenvolvimento: busco construir soluções que resolvam problemas reais, simplifiquem processos e gerem resultados mensuráveis.
+Minha trajetória multidisciplinar em **Assistência Administrativa**, **Suporte Técnico**, **Logística** e **Atendimento ao Público** me proporciona uma visão prática de desenvolvimento.
+
+Desenvolvo sistemas pensando em:
+
+- processos reais;
+- experiência de quem utiliza a solução;
+- automação de tarefas;
+- organização e análise de dados;
+- integração entre sistemas;
+- resultados mensuráveis.
 
 > **Código com propósito: transformar processos reais em soluções digitais.**
 
 ---
 
-## ⚡ Stack & Tecnologias
+## ⚡ Stack técnica
 
-### Backend
+### 🖥️ Back-end
 
 <p>
-  <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PDO-4F5B93?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs%20REST-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8+" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/PDO-4F5B93?style=flat-square&logo=php&logoColor=white" alt="PDO" />
+  <img src="https://img.shields.io/badge/APIs%20REST-009688?style=flat-square" alt="APIs REST" />
 </p>
 
-### Frontend
+### 🎨 Front-end
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DataTables-1F6FB2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square" alt="AJAX" />
+  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/DataTables-1F6FB2?style=flat-square" alt="DataTables" />
 </p>
 
-### Dados · IA · Automação
+### 🤖 Dados · IA · Automação
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RPA-1F2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Visão%20Computacional-5C3EE8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MetaTrader%205-1F2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google GenAI SDK" />
+  <img src="https://img.shields.io/badge/RPA-1F2937?style=flat-square" alt="RPA" />
+  <img src="https://img.shields.io/badge/Visão%20Computacional-5C3EE8?style=flat-square" alt="Visão Computacional" />
+  <img src="https://img.shields.io/badge/MetaTrader%205-1F2937?style=flat-square" alt="MetaTrader 5" />
 </p>
 
-### Banco de dados · Ferramentas
+### 🗄️ Banco de dados · Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL%208+-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%208+-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8+" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyInstaller" />
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos de destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 🤖 Pipeline RPA Dinâmico & Analítico de Dados
 
-### 🤖 Pipeline RPA & IA
+Pipeline de automação e análise de dados com integração a recursos de Inteligência Artificial.
 
-Pipeline de automação e análise de dados integrado a recursos de Inteligência Artificial.
+**Stack:**
 
-**Stack**
+`Python` · `Flask` · `SQLAlchemy` · `Pandas` · `Google GenAI SDK` · `Tailwind CSS` · `HTML5` · `PyInstaller`
 
-`Python` · `Flask` · `SQLAlchemy` · `Pandas` · `Google GenAI SDK` · `Tailwind CSS` · `PyInstaller`
+---
 
-    </td>
+### 💰 Sistema de Gestão Financeira e Manutenção Patrimonial
 
-    <td width="50%" valign="top">
+Sistema web para controle financeiro e manutenção de patrimônio, com painéis e tabelas interativas.
 
-### 💰 Gestão Financeira
+**Stack:**
 
-Sistema web para controle financeiro e manutenção patrimonial, com dashboards e tabelas interativas.
+`PHP 8+` · `MySQL 8+` · `PDO` · `Bootstrap 5` · `Chart.js` · `DataTables` · `AJAX` · `JavaScript` · `HTML5`
 
-**Stack**
+---
 
-`PHP 8+` · `MySQL` · `PDO` · `Bootstrap` · `Chart.js` · `DataTables` · `AJAX`
+### 🛠️ Sistema de Gestão de Ordens de Serviço
 
-    </td>
-  </tr>
+Sistema web para abertura, acompanhamento e gestão de ordens de serviço.
 
-  <tr>
-    <td width="50%" valign="top">
+**Stack:**
 
-### 🛠️ Gestão de Ordens de Serviço
+`PHP` · `MySQL` · `phpMyAdmin` · `JavaScript` · `AJAX`
 
-Sistema para abertura, acompanhamento e gerenciamento de ordens de serviço.
+---
 
-**Stack**
+### 📅 Sistema de Gestão de Turnos e Plantões Familiares
 
-`PHP` · `MySQL` · `JavaScript` · `AJAX`
+Aplicação web para organização de turnos e plantões.
 
-    </td>
-
-    <td width="50%" valign="top">
-
-### 📅 Gestão de Turnos
-
-Aplicação web para organização de turnos e plantões familiares.
-
-**Stack**
+**Stack:**
 
 `PHP` · `MySQL` · `JavaScript` · `HTML5` · `CSS`
 
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td width="50%" valign="top">
+### 📈 Robô de Automação Baseado em SMC
 
-### 📈 Robô de Automação SMC
+Robô de automação integrado ao MetaTrader 5, com processamento e análise de dados em Python.
 
-Automação integrada ao MetaTrader 5 com processamento e análise de dados utilizando Python.
+**Stack:**
 
-**Stack**
-
-`Python` · `Flask` · `Pandas` · `MySQL` · `PHP` · `MetaTrader 5`
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### 👁️ Visão Computacional & IA
-
-Exploração de soluções envolvendo processamento de imagens, automação inteligente e integração de modelos de IA.
-
-**Stack**
-
-`Python` · `IA` · `Visão Computacional` · `APIs`
-
-    </td>
-  </tr>
-</table>
+`Python` · `Flask` · `Pandas` · `MySQL` · `PHP` · `phpMyAdmin` · `MetaTrader 5`
 
 ---
 
-## 📂 Outros projetos
+## 📂 Outros repositórios
 
-<p>
-  <a href="https://github.com/antoniomotajr/JARVIS">
-    <img src="https://img.shields.io/badge/JARVIS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+[![JARVIS](https://img.shields.io/badge/JARVIS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/JARVIS)
+[![calorias](https://img.shields.io/badge/calorias-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/calorias)
+[![atlas_stack](https://img.shields.io/badge/atlas__stack-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/atlas_stack)
+[![achei](https://img.shields.io/badge/achei-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/achei)
+[![mania-manicure](https://img.shields.io/badge/mania--manicure-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/mania-manicure)
+[![desafio_dev](https://img.shields.io/badge/desafio__dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/desafio_dev)
 
-  <a href="https://github.com/antoniomotajr/calorias">
-    <img src="https://img.shields.io/badge/calorias-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/antoniomotajr/atlas_stack">
-    <img src="https://img.shields.io/badge/atlas__stack-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/antoniomotajr/Simulador-H-drico-e-Ambiental---Cultivo-de-Soja">
-    <img src="https://img.shields.io/badge/Simulador%20Hídrico-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/antoniomotajr/achei">
-    <img src="https://img.shields.io/badge/achei-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/antoniomotajr/mania-manicure">
-    <img src="https://img.shields.io/badge/mania--manicure-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/antoniomotajr/desafio_dev">
-    <img src="https://img.shields.io/badge/desafio__dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Simulador Hídrico e Ambiental](https://img.shields.io/badge/Simulador%20Hídrico%20e%20Ambiental-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antoniomotajr/Simulador-H-drico-e-Ambiental---Cultivo-de-Soja)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Indicadores no GitHub
 
 <p align="center">
   <img
-    height="170"
+    height="165"
     src="https://github-readme-stats.vercel.app/api?username=antoniomotajr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="Estatísticas do GitHub"
   />
 
   <img
-    height="170"
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomotajr&layout=compact&theme=tokyonight&hide_border=true"
     alt="Linguagens mais utilizadas"
   />
@@ -234,24 +176,24 @@ Exploração de soluções envolvendo processamento de imagens, automação inte
 
 ## 🧠 Áreas de atuação
 
-<table>
-  <tr>
-    <td align="center">💻<br/><strong>Full Stack</strong></td>
-    <td align="center">🔌<br/><strong>APIs REST</strong></td>
-    <td align="center">🤖<br/><strong>RPA</strong></td>
-    <td align="center">🧠<br/><strong>IA</strong></td>
-    <td align="center">👁️<br/><strong>Visão Computacional</strong></td>
-    <td align="center">📊<br/><strong>Dados</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-181717?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/RPA-1F2937?style=for-the-badge" alt="RPA" />
+  <img src="https://img.shields.io/badge/IA-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Visão Computacional" />
+</p>
 
 ---
 
-## 🔗 Repositórios
+## 🔗 Todos os repositórios
 
 <p align="center">
   <a href="https://github.com/antoniomotajr?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos os repositórios" />
   </a>
 </p>
 
@@ -261,18 +203,10 @@ Exploração de soluções envolvendo processamento de imagens, automação inte
 
 Estou disponível para **projetos, parcerias, desenvolvimento de sistemas e oportunidades profissionais**.
 
-<p>
-  📧 <strong>E-mail:</strong>
-  <a href="mailto:antoniomotajr@gmail.com">antoniomotajr@gmail.com</a>
-  <br/>
-
-  💼 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/afmotajunior/">linkedin.com/in/afmotajunior</a>
-  <br/>
-
-  🌐 <strong>Portfólio:</strong>
-  <a href="https://jmstudio.orgfree.com/sobre.php">JM Studio</a>
-</p>
+- 📧 **E-mail:** [antoniomotajr@gmail.com](mailto:antoniomotajr@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/afmotajunior](https://www.linkedin.com/in/afmotajunior/)
+- 🌐 **Portfólio:** [JM Studio](https://jmstudio.orgfree.com/sobre.php)
+- 🎨 **ArtStation:** [afmotajunior](https://www.artstation.com/afmotajunior)
 
 ---
 
@@ -281,5 +215,8 @@ Estou disponível para **projetos, parcerias, desenvolvimento de sistemas e opor
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antoniomotajr&style=flat-square&color=blue" alt="Visualizações do perfil"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=antoniomotajr&style=flat-square&color=blue"
+    alt="Visualizações do perfil"
+  />
 </p>
