@@ -126,8 +126,8 @@ Automação aplicada a análise e execução de estratégias, utilizando conceit
 > Os cards abaixo podem ser substituídos por SVGs gerados pelo GitHub Actions, evitando dependência de serviços públicos externos.
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+  <img height="165" src="stats.svg" alt="Estatísticas do GitHub" />
+  <img height="165" src="top-langs.svg" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
