@@ -28,41 +28,48 @@ Minha trajetória multidisciplinar em **Assistência Administrativa**, **Suporte
 
 ## Stack técnica
 
-**Back-end**
-
-<img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8+" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/PDO-4F5B93?style=flat-square&logo=php&logoColor=white" alt="PDO" />
-<img src="https://img.shields.io/badge/APIs%20REST-009688?style=flat-square" alt="APIs REST" />
-
-**Front-end**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square" alt="AJAX" />
-<img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-<img src="https://img.shields.io/badge/DataTables-1F6FB2?style=flat-square" alt="DataTables" />
-
-**Dados, IA e automação**
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google GenAI SDK" />
-<img src="https://img.shields.io/badge/RPA-1F2937?style=flat-square" alt="RPA" />
-<img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-5C3EE8?style=flat-square" alt="Visão Computacional" />
-<img src="https://img.shields.io/badge/MetaTrader%205-1F2937?style=flat-square" alt="MetaTrader 5" />
-
-**Banco de dados e ferramentas**
-
-<img src="https://img.shields.io/badge/MySQL%208+-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8+" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyInstaller" />
+<table>
+  <tr>
+    <th align="left">Back-end</th>
+    <th align="left">Front-end</th>
+    <th align="left">Dados, IA e automação</th>
+    <th align="left">Banco de dados e ferramentas</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8+" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /><br/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /><br/>
+      <img src="https://img.shields.io/badge/PDO-4F5B93?style=flat-square&logo=php&logoColor=white" alt="PDO" /><br/>
+      <img src="https://img.shields.io/badge/APIs%20REST-009688?style=flat-square" alt="APIs REST" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square" alt="AJAX" /><br/>
+      <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br/>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" /><br/>
+      <img src="https://img.shields.io/badge/DataTables-1F6FB2?style=flat-square" alt="DataTables" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /><br/>
+      <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google GenAI SDK" /><br/>
+      <img src="https://img.shields.io/badge/RPA-1F2937?style=flat-square" alt="RPA" /><br/>
+      <img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-5C3EE8?style=flat-square" alt="Visão Computacional" /><br/>
+      <img src="https://img.shields.io/badge/MetaTrader%205-1F2937?style=flat-square" alt="MetaTrader 5" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/MySQL%208+-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8+" /><br/>
+      <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br/>
+      <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyInstaller" />
+    </td>
+  </tr>
+</table>
 
 ---
 
