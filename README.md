@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack com foco na criação de **sistemas web, APIs, automações e soluções orientadas a dados**, combinando desenvolvimento de software, RPA, visão computacional e Inteligência Artificial.
+Desenvolvedor Full Stack com foco em **Frontend, Backend, sistemas web, APIs, automações e soluções orientadas a dados**, combinando desenvolvimento de software, RPA, visão computacional e Inteligência Artificial.
 
 Tenho interesse em transformar processos reais em aplicações práticas, com foco em **automação, produtividade, análise de dados e integração entre sistemas**.
 
@@ -46,6 +46,31 @@ Tenho interesse em transformar processos reais em aplicações práticas, com fo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![DataTables](https://img.shields.io/badge/DataTables-DataTables-blue?style=flat-square)
+
+### Frontend
+
+![Frontend](https://img.shields.io/badge/Frontend-Desenvolvimento%20Web-0A66C2?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-1572B6?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![DataTables](https://img.shields.io/badge/DataTables-DataTables-blue?style=flat-square)
+
+Desenvolvimento de interfaces **responsivas, funcionais e orientadas à experiência do usuário**, integrando componentes visuais, consumo de APIs REST, requisições assíncronas, dashboards, tabelas dinâmicas e visualização de dados.
+
+**Atuação no Frontend:**
+- Interfaces responsivas para desktop e dispositivos móveis
+- HTML5 semântico e CSS3
+- JavaScript moderno (ES6+)
+- AJAX e integração assíncrona com APIs REST
+- Bootstrap 5 e Tailwind CSS
+- Dashboards e gráficos interativos com Chart.js
+- Tabelas, filtros, paginação e ordenação com DataTables
+- Integração entre Frontend, Backend, APIs e banco de dados
+- Desenvolvimento de sistemas web completos do Frontend ao Backend
 
 ### Dados, Automação & IA
 
@@ -110,6 +135,7 @@ Automação aplicada a análise e execução de estratégias, utilizando conceit
 ## 🎯 Áreas de atuação
 
 - Desenvolvimento Full Stack
+- Desenvolvimento Frontend e interfaces web responsivas
 - Desenvolvimento de APIs REST
 - Sistemas Web
 - Automação de processos e RPA
