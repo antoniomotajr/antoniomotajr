@@ -1,130 +1,291 @@
-# 👋 Olá, eu sou Antonio Mota Junior
+<div align="center">
 
-<div align="right">
-  <img src="./assets/github_fullstack_ia_animado_lento.gif" width="210" alt="Antonio Mota Junior - Desenvolvedor Full Stack" />
+# 👋 Antonio Mota Junior
+
+### 💻 Desenvolvedor Full Stack · PHP · Python · JavaScript · APIs REST · IA
+
+<p>
+  <a href="https://github.com/antoniomotajr">
+    <img src="https://img.shields.io/github/followers/antoniomotajr?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=161b22" alt="Seguidores">
+  </a>
+  <a href="https://github.com/antoniomotajr?tab=repositories">
+    <img src="https://img.shields.io/badge/Projetos-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
+  </a>
+  <a href="https://www.linkedin.com/in/afmotajunior/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 </div>
 
-## 💻 Desenvolvedor Full Stack
+<table>
+<tr>
+<td width="68%" valign="top">
 
-Desenvolvedor Full Stack com foco em **PHP, Python, JavaScript, APIs REST, automação, RPA, visão computacional e IA**.
+## 🚀 Sobre mim
 
-Atuo na construção de soluções web completas, integrando **Frontend ↔ Backend ↔ Banco de Dados ↔ APIs**, com interfaces responsivas, dashboards, tabelas dinâmicas e automação de processos.
+Sou **Desenvolvedor Full Stack**, com experiência na criação de sistemas web, automação de processos, integração de APIs, análise de dados, RPA, visão computacional e aplicações com IA.
 
-> **“Transformando processos reais em soluções digitais.”**
+Meu foco é transformar necessidades reais em **soluções digitais completas**, conectando:
 
-<br clear="right"/>
+**Frontend → Backend → Banco de Dados → APIs → Automação → Inteligência**
 
----
+> 💡 **“Transformando processos reais em soluções digitais.”**
 
-## 🧩 Frontend
+### 🎯 Especialidades
 
-- **HTML5**
-- **CSS3**
-- **JavaScript ES6+**
-- **AJAX**
-- **Bootstrap 5**
-- **Tailwind CSS**
-- **Chart.js**
-- **DataTables**
-- Interfaces responsivas
-- Dashboards e visualização de dados
-- Integração Frontend ↔ Backend
-- Consumo e integração com APIs REST
+| Área | Atuação |
+|---|---|
+| 🌐 **Frontend** | Interfaces responsivas, dashboards, tabelas dinâmicas e UX |
+| ⚙️ **Backend** | PHP, Python, Flask, SQLAlchemy, PDO e APIs REST |
+| 🗄️ **Dados** | MySQL, Pandas, análise e processamento de dados |
+| 🤖 **Automação** | RPA, automação de rotinas e geração de relatórios |
+| 👁️ **Visão Computacional** | Processamento e análise de imagens |
+| 🧠 **IA** | Google GenAI SDK e aplicações inteligentes |
+| 📈 **Trading/Automação** | MetaTrader 5 e automação baseada em regras |
 
-## ⚙️ Backend & Dados
+</td>
+<td width="32%" align="center" valign="top">
 
-- **PHP 8+**
-- **Python 3.x**
-- **Flask**
-- **SQLAlchemy**
-- **PDO**
-- **MySQL 8+**
-- **phpMyAdmin**
-- APIs REST
-- Processamento e análise de dados com **Pandas**
+<img src="./assets/github_fullstack_ia_animado_lento.gif" width="230" alt="Antonio Mota Junior - Full Stack Developer">
 
-## 🤖 Automação, IA & Visão Computacional
+<br><br>
 
-- **RPA**
-- **Computer Vision**
-- **Google GenAI SDK**
-- Automação de processos
-- Análise e processamento de dados
-- Aplicações com IA
-- **MetaTrader 5**
+### 📍 Brasília-DF 🇧🇷
 
-## 🛠️ Ferramentas
+**Full Stack Developer**
 
-- Git
-- GitHub
-- PyInstaller
-- VS Code
-- Ambiente Linux/Windows
+PHP • Python • JavaScript  
+REST APIs • RPA • IA  
+Web • Dados • Automação
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧩 Stack Tecnológica
 
-### 1. Pipeline RPA Dinâmico & Analítico de Dados
+### 🎨 Frontend
+
+<table>
+<tr>
+<td align="center" width="14%">🌐<br><b>HTML5</b></td>
+<td align="center" width="14%">🎨<br><b>CSS3</b></td>
+<td align="center" width="14%">⚡<br><b>JavaScript</b></td>
+<td align="center" width="14%">🔄<br><b>AJAX</b></td>
+<td align="center" width="14%">🅱️<br><b>Bootstrap 5</b></td>
+<td align="center" width="14%">💨<br><b>Tailwind</b></td>
+<td align="center" width="14%">📊<br><b>Chart.js</b></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%">📋 <b>DataTables</b></td>
+<td align="center" width="25%">📱 <b>Responsive UI</b></td>
+<td align="center" width="25%">📈 <b>Dashboards</b></td>
+<td align="center" width="25%">🔗 <b>REST Integration</b></td>
+</tr>
+</table>
+
+### ⚙️ Backend & Banco de Dados
+
+<table>
+<tr>
+<td align="center">🐘<br><b>PHP 8+</b></td>
+<td align="center">🐍<br><b>Python 3.x</b></td>
+<td align="center">🌶️<br><b>Flask</b></td>
+<td align="center">🧱<br><b>SQLAlchemy</b></td>
+<td align="center">🔌<br><b>PDO</b></td>
+<td align="center">🗄️<br><b>MySQL 8+</b></td>
+<td align="center">🛠️<br><b>phpMyAdmin</b></td>
+</tr>
+</table>
+
+### 🤖 Automação, IA & Dados
+
+<table>
+<tr>
+<td align="center">🤖<br><b>RPA</b></td>
+<td align="center">👁️<br><b>Computer Vision</b></td>
+<td align="center">✨<br><b>Google GenAI</b></td>
+<td align="center">🐼<br><b>Pandas</b></td>
+<td align="center">📈<br><b>MetaTrader 5</b></td>
+<td align="center">📦<br><b>PyInstaller</b></td>
+</tr>
+</table>
+
+### 🛠️ Ferramentas
+
+<table>
+<tr>
+<td align="center">🔀 <b>Git</b></td>
+<td align="center">🐙 <b>GitHub</b></td>
+<td align="center">💻 <b>VS Code</b></td>
+<td align="center">🐧 <b>Linux</b></td>
+<td align="center">🪟 <b>Windows</b></td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Pipeline RPA Dinâmico & Analítico
+
 Automação de rotinas, processamento de dados e geração de informações para apoio à tomada de decisão.
 
-### 2. Sistema de Gestão Financeira e Manutenção Patrimonial
-Aplicação web para organização financeira, controle patrimonial, manutenção e acompanhamento de informações.
+**Tecnologias:** Python · RPA · Pandas · Automação
 
-### 3. Sistema de Gestão de Ordens de Serviço
-Controle de solicitações, ordens de serviço, acompanhamento de status e organização operacional.
+</td>
+<td width="50%" valign="top">
 
-### 4. Sistema de Gestão de Turnos e Plantões Familiares
+### 💰 Gestão Financeira e Patrimonial
+
+Sistema web para organização financeira, controle patrimonial, manutenção e acompanhamento de informações.
+
+**Tecnologias:** PHP · MySQL · JavaScript · Bootstrap
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Gestão de Ordens de Serviço
+
+Controle de solicitações, ordens de serviço, status e organização operacional.
+
+**Tecnologias:** PHP · MySQL · AJAX · DataTables
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Gestão de Turnos e Plantões
+
 Sistema para organização de escalas, turnos, plantões e distribuição de responsabilidades.
 
-### 5. Robô de Automação Baseado em SMC
+**Tecnologias:** PHP · MySQL · JavaScript · Bootstrap
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 📈 Robô de Automação Baseado em SMC
+
 Automação orientada a regras e análise de mercado, com integração ao **MetaTrader 5**.
+
+**Tecnologias:** Python · MetaTrader 5 · Automação · Análise de dados
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub
 
-Os cards abaixo são **SVGs gerados pelo GitHub Actions e armazenados neste próprio repositório**. Assim, o README não depende de um endpoint público externo para cada visualização.
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📈 Estatísticas
+
+<img src="./profile/stats.svg" alt="Estatísticas do GitHub">
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Linguagens
+
+<img src="./profile/top-langs.svg" alt="Linguagens mais utilizadas">
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+  <sub>⚙️ Cards gerados e atualizados pelo GitHub Actions dentro deste próprio repositório.</sub>
 </p>
 
 ---
 
-## 📚 Outros projetos
+## 📚 Outros Projetos
 
-- **JARVIS**
-- **calorias**
-- **atlas_stack**
-- **Simulador-H-drico-e-Ambiental---Cultivo-de-Soja**
-- **achei**
-- **mania-manicure**
-- **desafio_dev**
+<table>
+<tr>
+<td>🤖 <b>JARVIS</b></td>
+<td>🍎 <b>calorias</b></td>
+<td>🧱 <b>atlas_stack</b></td>
+</tr>
+<tr>
+<td>🌱 <b>Simulador Hídrico e Ambiental</b></td>
+<td>🔎 <b>achei</b></td>
+<td>💅 <b>mania-manicure</b></td>
+</tr>
+<tr>
+<td>🧪 <b>desafio_dev</b></td>
+<td>📦 <b>Projetos Web</b></td>
+<td>⚙️ <b>Automação</b></td>
+</tr>
+</table>
 
 ---
 
-## 📌 Atuação
+## 💼 Atuação Profissional
 
-**Desenvolvedor Full Stack & Suporte Técnico**  
-Projetos autônomos — jan/2026 – atual
-
-**Assistente Administrativo, Logística e Atendimento ao Público**  
-Universidade de Brasília (UnB) — mar/1999 – nov/2015
+<table>
+<tr>
+<td width="30%">📌 <b>2026 – atual</b></td>
+<td><b>Desenvolvedor Full Stack & Suporte Técnico</b><br>Projetos autônomos</td>
+</tr>
+<tr>
+<td width="30%">📌 <b>1999 – 2015</b></td>
+<td><b>Assistente Administrativo, Logística e Atendimento ao Público</b><br>Universidade de Brasília — UnB</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Contato
 
-- 🌐 **Portfólio:** https://jmstudio.orgfree.com/sobre.php
-- 💼 **LinkedIn:** https://www.linkedin.com/in/afmotajunior/
-- 🎨 **ArtStation:** https://www.artstation.com/afmotajunior
-- ✉️ **E-mail:** antoniomotajr@gmail.com
+<table>
+<tr>
+<td>🌐 <b>Portfólio</b></td>
+<td><a href="https://jmstudio.orgfree.com/sobre.php">jmstudio.orgfree.com</a></td>
+</tr>
+<tr>
+<td>💼 <b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/afmotajunior/">linkedin.com/in/afmotajunior</a></td>
+</tr>
+<tr>
+<td>🎨 <b>ArtStation</b></td>
+<td><a href="https://www.artstation.com/afmotajunior">artstation.com/afmotajunior</a></td>
+</tr>
+<tr>
+<td>✉️ <b>E-mail</b></td>
+<td><a href="mailto:antoniomotajr@gmail.com">antoniomotajr@gmail.com</a></td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>Antonio Mota Junior</b><br>
-  Full Stack Developer · PHP · Python · JavaScript · APIs REST · RPA · IA
-</p>
+<div align="center">
+
+### ⚡ Desenvolvedor Full Stack
+
+**PHP · Python · JavaScript · REST APIs · Web · RPA · Visão Computacional · IA**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=antoniomotajr&style=flat-square&color=blue" alt="Visualizações do perfil">
+
+</div>
