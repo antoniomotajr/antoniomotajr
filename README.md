@@ -24,19 +24,19 @@
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="#fullstack"><img src="./assets/l_fullstack.jpg" width="100%" alt="Desenvolvimento Full Stack e IA"></a><br>
-      <a href="#escultura"><img src="./assets/l_escultura.jpg" width="100%" alt="Escultor Tradicional e Digital"></a><br>
-      <a href="#trader"><img src="./assets/l_trader.jpg" width="100%" alt="Trader de Câmbio"></a><br>
-      <a href="#commodities"><img src="./assets/l_trader2.jpg" width="100%" alt="Commodities"></a>
+      <a href="#fullstack"><img src="./assets/mapa2_01_fullstack.jpg" width="100%" alt="Desenvolvimento Full Stack e IA"></a><br>
+      <a href="#escultura"><img src="./assets/mapa2_02_escultura.jpg" width="100%" alt="Escultor Tradicional e Digital"></a><br>
+      <a href="#trader"><img src="./assets/mapa2_03_trader-cambio.jpg" width="100%" alt="Trader de Câmbio"></a><br>
+      <a href="#commodities"><img src="./assets/mapa2_04_commodities.jpg" width="100%" alt="Commodities"></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="#sobre-mim"><img src="./assets/centro.jpg" width="100%" alt="Antonio Mota Junior"></a>
+      <a href="#sobre-mim"><img src="./assets/mapa2_05_centro.jpg" width="100%" alt="Antonio Mota Junior"></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="#admin"><img src="./assets/r_admin.jpg" width="100%" alt="Administrativo e Logística"></a><br>
-      <a href="#atendimento"><img src="./assets/r_atendimento.jpg" width="100%" alt="Atendimento ao Público e CS"></a><br>
-      <a href="#telemarketing"><img src="./assets/r_telemarketing.jpg" width="100%" alt="Telemarketing"></a><br>
-      <a href="#coordenacao"><img src="./assets/r_projetos.jpg" width="100%" alt="Coordenação"></a>
+      <a href="#admin"><img src="./assets/mapa2_06_admin.jpg" width="100%" alt="Administrativo e Logística"></a><br>
+      <a href="#atendimento"><img src="./assets/mapa2_07_atendimento.jpg" width="100%" alt="Atendimento ao Público e CS"></a><br>
+      <a href="#telemarketing"><img src="./assets/mapa2_08_telemarketing.jpg" width="100%" alt="Telemarketing"></a><br>
+      <a href="#coordenacao"><img src="./assets/mapa2_09_coordenacao.jpg" width="100%" alt="Coordenação"></a>
     </td>
   </tr>
 </table>
