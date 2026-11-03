@@ -17,71 +17,7 @@
 
 ---
 
-## 🧭 Perfil interativo
-
-> 👆 **Clique em um painel** da imagem para ir direto à área correspondente.
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="#fullstack"><img src="./assets/l_fullstack.jpg" width="100%" alt="Desenvolvimento Full Stack e IA"></a><br>
-      <a href="#escultura"><img src="./assets/l_escultura.jpg" width="100%" alt="Escultor Tradicional e Digital"></a><br>
-      <a href="#trader"><img src="./assets/l_trader.jpg" width="100%" alt="Trader de Câmbio e Commodities"></a><br>
-      <a href="#trader"><img src="./assets/l_trader2.jpg" width="100%" alt="Trader de Câmbio e Commodities"></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="#sobre-mim"><img src="./assets/centro.jpg" width="100%" alt="Antonio Mota Junior"></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="#admin"><img src="./assets/r_admin.jpg" width="100%" alt="Administrativo e Logística"></a><br>
-      <a href="#atendimento"><img src="./assets/r_atendimento.jpg" width="100%" alt="Atendimento ao Público e CS"></a><br>
-      <a href="#telemarketing"><img src="./assets/r_telemarketing.jpg" width="100%" alt="Telemarketing e Coordenação"></a><br>
-      <a href="#projetos"><img src="./assets/r_projetos.jpg" width="100%" alt="Projetos em destaque"></a>
-    </td>
-  </tr>
-</table>
-
-<h3 id="fullstack">💻 Desenvolvimento Full Stack & IA</h3>
-
-Criação de sistemas web, APIs e automações, com visão computacional e inteligência artificial.
-
-`PHP` · `Python` · `JavaScript` · `APIs REST & Web` · `Visão Computacional` · `IA & Machine Learning` · `Flask` · `SQLAlchemy` · `MySQL` · `Pandas` · `Google GenAI SDK` · `RPA`
-
-<h3 id="escultura">🗿 Escultor Tradicional & Digital</h3>
-
-Escultura tradicional e digital, integrando tecnologia, criatividade e arte.
-
-`Modelagem 3D` · `Escultura Tradicional` · `Texturização & Render` · `Criação Artística` — [ArtStation](https://www.artstation.com/afmotajunior) · [Portfólio JM Studio](https://jmstudio.orgfree.com/sobre.php)
-
-<h3 id="trader">📈 Trader de Câmbio & Commodities</h3>
-
-Atuação no mercado financeiro, com análise técnica, estratégias e automação aplicada a operações.
-
-`Mercado Financeiro` · `Análise Técnica` · `Estratégias` · `Backtesting` · `Automação` · `MetaTrader 5` — veja o [Robô de Automação Baseado em SMC](#projetos)
-
-<h3 id="admin">🗂️ Administrativo & Logística</h3>
-
-Rotinas administrativas e logísticas, com foco em organização, controle e eficiência operacional.
-
-`Gestão de Documentos` · `Planejamento` · `Cadeia de Suprimentos` · `Controle de Estoque`
-
-<h3 id="atendimento">🤝 Atendimento ao Público & CS</h3>
-
-Atendimento orientado a pessoas, com relacionamento com clientes, suporte e resolução de conflitos.
-
-`Customer Service` · `Solução de Conflitos` · `Suporte ao Cliente` · `CRM`
-
-<h3 id="telemarketing">📞 Telemarketing & Coordenação</h3>
-
-Operações comerciais, supervisão de equipes e acompanhamento de metas e indicadores.
-
-`Operador de Vendas` · `Supervisão de Equipe` · `Metas & Performance` · `Gestão de KPI`
-
-<p align="right"><a href="#-perfil-interativo">⬆ voltar ao mapa</a></p>
-
----
-
-<h2 id="sobre-mim">🚀 Sobre mim</h2>
+## 🚀 Sobre mim
 
 Desenvolvedor Full Stack com foco na criação de **sistemas web, APIs, automações e soluções orientadas a dados**, combinando desenvolvimento de software, RPA, visão computacional e Inteligência Artificial.
 
@@ -132,7 +68,7 @@ Tenho interesse em transformar processos reais em aplicações práticas, com fo
 
 ---
 
-<h2 id="projetos">📌 Projetos em destaque</h2>
+## 📌 Projetos em destaque
 
 ### 🔹 Pipeline RPA Dinâmico & Analítico de Dados
 Automação de processos e tratamento de dados, com geração de informações estruturadas para análise e tomada de decisão.
@@ -164,6 +100,8 @@ Automação aplicada a análise e execução de estratégias, utilizando conceit
 ---
 
 ## 📊 Indicadores no GitHub
+
+> 
 
 <p align="center">
   <img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
