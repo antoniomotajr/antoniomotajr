@@ -26,8 +26,8 @@
     <td width="33%" valign="top" align="center">
       <a href="#fullstack"><img src="./assets/l_fullstack.jpg" width="100%" alt="Desenvolvimento Full Stack e IA"></a><br>
       <a href="#escultura"><img src="./assets/l_escultura.jpg" width="100%" alt="Escultor Tradicional e Digital"></a><br>
-      <a href="#trader"><img src="./assets/l_trader.jpg" width="100%" alt="Trader de Câmbio e Commodities"></a><br>
-      <a href="#trader"><img src="./assets/l_trader2.jpg" width="100%" alt="Trader de Câmbio e Commodities"></a>
+      <a href="#trader"><img src="./assets/l_trader.jpg" width="100%" alt="Trader de Câmbio"></a><br>
+      <a href="#commodities"><img src="./assets/l_trader2.jpg" width="100%" alt="Commodities"></a>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="#sobre-mim"><img src="./assets/centro.jpg" width="100%" alt="Antonio Mota Junior"></a>
@@ -35,8 +35,8 @@
     <td width="33%" valign="top" align="center">
       <a href="#admin"><img src="./assets/r_admin.jpg" width="100%" alt="Administrativo e Logística"></a><br>
       <a href="#atendimento"><img src="./assets/r_atendimento.jpg" width="100%" alt="Atendimento ao Público e CS"></a><br>
-      <a href="#telemarketing"><img src="./assets/r_telemarketing.jpg" width="100%" alt="Telemarketing e Coordenação"></a><br>
-      <a href="#projetos"><img src="./assets/r_projetos.jpg" width="100%" alt="Projetos em destaque"></a>
+      <a href="#telemarketing"><img src="./assets/r_telemarketing.jpg" width="100%" alt="Telemarketing"></a><br>
+      <a href="#coordenacao"><img src="./assets/r_projetos.jpg" width="100%" alt="Coordenação"></a>
     </td>
   </tr>
 </table>
@@ -53,11 +53,17 @@ Escultura tradicional e digital, integrando tecnologia, criatividade e arte.
 
 `Modelagem 3D` · `Escultura Tradicional` · `Texturização & Render` · `Criação Artística` — [ArtStation](https://www.artstation.com/afmotajunior) · [Portfólio JM Studio](https://jmstudio.orgfree.com/sobre.php)
 
-<h3 id="trader">📈 Trader de Câmbio & Commodities</h3>
+<h3 id="trader">📈 Trader de Câmbio</h3>
 
-Atuação no mercado financeiro, com análise técnica, estratégias e automação aplicada a operações.
+Atuação no mercado financeiro, com análise técnica e estratégias para operações de câmbio.
 
-`Mercado Financeiro` · `Análise Técnica` · `Estratégias` · `Backtesting` · `Automação` · `MetaTrader 5` — veja o [Robô de Automação Baseado em SMC](#projetos)
+`Mercado Financeiro` · `Análise Técnica` · `Estratégias`
+
+<h3 id="commodities">🛢️ Commodities</h3>
+
+Operações em commodities, aliadas a backtesting e automação aplicada às estratégias.
+
+`Backtesting` · `Automação` · `MetaTrader 5` — veja o [Robô de Automação Baseado em SMC](#projetos)
 
 <h3 id="admin">🗂️ Administrativo & Logística</h3>
 
@@ -71,11 +77,17 @@ Atendimento orientado a pessoas, com relacionamento com clientes, suporte e reso
 
 `Customer Service` · `Solução de Conflitos` · `Suporte ao Cliente` · `CRM`
 
-<h3 id="telemarketing">📞 Telemarketing & Coordenação</h3>
+<h3 id="telemarketing">📞 Telemarketing</h3>
 
-Operações comerciais, supervisão de equipes e acompanhamento de metas e indicadores.
+Operações comerciais, com foco em vendas e no acompanhamento de metas.
 
-`Operador de Vendas` · `Supervisão de Equipe` · `Metas & Performance` · `Gestão de KPI`
+`Operador de Vendas` · `Metas & Performance`
+
+<h3 id="coordenacao">👥 Coordenação</h3>
+
+Supervisão de equipes e acompanhamento de indicadores de desempenho.
+
+`Supervisão de Equipe` · `Gestão de KPI`
 
 <p align="right"><a href="#-perfil-interativo">⬆ voltar ao mapa</a></p>
 
